@@ -14,7 +14,7 @@ response to commands a user sends using the bridge's app.
 The bridges can also then be added to Home Assistant (Bond and Broadlink have
 native integratoins, Sonoff requires some extra work).
 
-These RF blinds, bridges, and Home Assistant integratoins do not maintain any
+These RF blinds, bridges, and Home Assistant integrations do not maintain any
 internal state regarding the current position of the blinds, so, if the blinds
 are exposed to HomeKit or Google Home, the blinds are hard to control.
 
